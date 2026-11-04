@@ -1,0 +1,65 @@
+{
+    "chart_title": "My Best Lifts",
+    "data_points": [
+        {
+            "label": "Bench Press",
+            "muscle_group": "Chest",
+            "weight": 275,
+            "reps": 5
+        },
+        {
+            "label": "Squat",
+            "muscle_group": "Legs",
+            "weight": 405,
+            "reps": 6
+        },
+        {
+            "label": "Deadlift",
+            "muscle_group": "Back",
+            "weight": 430,
+            "reps": 5
+        },
+        {
+            "label": "Dumbbell Bench",
+            "muscle_group": "Chest",
+            "weight": 120,
+            "reps": 8
+        },
+        {
+            "label": "RDL",
+            "muscle_group": "Legs",
+            "weight": 365,
+            "reps": 5
+        },
+        {
+            "label": "Pull-Ups",
+            "muscle_group": "Back",
+            "weight": 45,
+            "reps": 10
+        },
+        {
+            "label": "Overhead Press",
+            "muscle_group": "Shoulders",
+            "weight": 155,
+            "reps": 6
+        },
+        {
+            "label": "Barbell Row",
+            "muscle_group": "Back",
+            "weight": 315,
+            "reps": 8
+        },
+        {
+            "label": "Leg Press",
+            "muscle_group": "Legs",
+            "weight": 800,
+            "reps": 3
+        },
+        {
+            "label": "Incline Dumbbell Press",
+            "muscle_group": "Chest",
+            "weight": 90,
+            "reps": 10
+        }
+    ]
+}
